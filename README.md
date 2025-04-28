@@ -5,8 +5,7 @@
 ```bash
 git clone https://github.com/HeJo-1/igPhishing
 cd igPhishing
-chmod +x ./main
-./main
+go run main.go
 ```
 
 ## Ekran Görüntüleri
